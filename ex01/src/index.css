@@ -4,19 +4,19 @@
 }
 
 body {
-    font: 80%/2.5 Verdana, Sans-Serif;
+    font: 71%/1.5 Verdana, Sans-Serif;
     background: #eee;
 }
 
 #container {
     margin: 100px auto;
-    width: 700px;
+    width: 688px;
 }
 
 #write {
     margin: 0 0 5px;
     padding: 5px;
-    width: 700px;
+    width: 671px;
     height: 200px;
     font: 1em/1.5 Verdana, Sans-Serif;
     background: #fff;
@@ -39,7 +39,7 @@ body {
     line-height: 40px;
     text-align: center;
     background: #fff;
-    border: 1px solid rgb(90, 88, 88);
+    border: 1px solid #f9f9f9;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
 }
